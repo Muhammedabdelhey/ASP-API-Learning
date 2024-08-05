@@ -1,0 +1,32 @@
+D:\Abdelhay projects\Learn ASP\bin\Debug\net8.0\appsettings.Development.json
+D:\Abdelhay projects\Learn ASP\bin\Debug\net8.0\appsettings.json
+D:\Abdelhay projects\Learn ASP\bin\Debug\net8.0\Learn ASP.exe
+D:\Abdelhay projects\Learn ASP\bin\Debug\net8.0\Learn ASP.deps.json
+D:\Abdelhay projects\Learn ASP\bin\Debug\net8.0\Learn ASP.runtimeconfig.json
+D:\Abdelhay projects\Learn ASP\bin\Debug\net8.0\Learn ASP.dll
+D:\Abdelhay projects\Learn ASP\bin\Debug\net8.0\Learn ASP.pdb
+D:\Abdelhay projects\Learn ASP\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Abdelhay projects\Learn ASP\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Abdelhay projects\Learn ASP\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Abdelhay projects\Learn ASP\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Abdelhay projects\Learn ASP\obj\Debug\net8.0\Learn ASP.csproj.AssemblyReference.cache
+D:\Abdelhay projects\Learn ASP\obj\Debug\net8.0\Learn ASP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdelhay projects\Learn ASP\obj\Debug\net8.0\Learn ASP.AssemblyInfoInputs.cache
+D:\Abdelhay projects\Learn ASP\obj\Debug\net8.0\Learn ASP.AssemblyInfo.cs
+D:\Abdelhay projects\Learn ASP\obj\Debug\net8.0\Learn ASP.csproj.CoreCompileInputs.cache
+D:\Abdelhay projects\Learn ASP\obj\Debug\net8.0\Learn ASP.MvcApplicationPartsAssemblyInfo.cs
+D:\Abdelhay projects\Learn ASP\obj\Debug\net8.0\Learn ASP.MvcApplicationPartsAssemblyInfo.cache
+D:\Abdelhay projects\Learn ASP\obj\Debug\net8.0\staticwebassets.build.json
+D:\Abdelhay projects\Learn ASP\obj\Debug\net8.0\staticwebassets.development.json
+D:\Abdelhay projects\Learn ASP\obj\Debug\net8.0\staticwebassets\msbuild.Learn ASP.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Abdelhay projects\Learn ASP\obj\Debug\net8.0\staticwebassets\msbuild.build.Learn ASP.props
+D:\Abdelhay projects\Learn ASP\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Learn ASP.props
+D:\Abdelhay projects\Learn ASP\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Learn ASP.props
+D:\Abdelhay projects\Learn ASP\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Abdelhay projects\Learn ASP\obj\Debug\net8.0\scopedcss\bundle\Learn ASP.styles.css
+D:\Abdelhay projects\Learn ASP\obj\Debug\net8.0\Learn ASP.csproj.Up2Date
+D:\Abdelhay projects\Learn ASP\obj\Debug\net8.0\Learn ASP.dll
+D:\Abdelhay projects\Learn ASP\obj\Debug\net8.0\refint\Learn ASP.dll
+D:\Abdelhay projects\Learn ASP\obj\Debug\net8.0\Learn ASP.pdb
+D:\Abdelhay projects\Learn ASP\obj\Debug\net8.0\Learn ASP.genruntimeconfig.cache
+D:\Abdelhay projects\Learn ASP\obj\Debug\net8.0\ref\Learn ASP.dll
